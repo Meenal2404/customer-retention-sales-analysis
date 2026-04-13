@@ -36,5 +36,12 @@ Analyze customer behavior and revenue trends to understand why repeat customers 
 ![Dashboard](dashboard/customer-retention-dashboard.png)
 
 ---
+## 📌 Business Conclusion
+Revenue growth is strong, but driven by new customers rather than repeat customers. Low retention (~23%) signals a need for customer engagement and loyalty strategies.
+
+## 📢 Recommendations
+- Introduce loyalty programs
+- Target repeat purchase campaigns
+- Improve customer experience
 
 ## 📂 Project Structure
